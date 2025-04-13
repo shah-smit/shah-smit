@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Smit
 - 👀 I’m interested in Developing, Teaching and everything in between
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning Kubernetes, AI and Machine Learning
 - 💞️ I’m looking to collaborate on Open Source Projects that involves K8, Spring Boot etc.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/smitshahc/) [Twitter](https://twitter.com/smit_shah_95)
 
